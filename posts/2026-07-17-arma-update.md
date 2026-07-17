@@ -5,50 +5,53 @@ date: 2026-07-17
 ---
 # ARMA 2026 Update — 2026-07-17
 
-**Status:** No major legislative progress on ARMA 2026 (H.R. 8957); still in committee with no new co-sponsors, markup, votes, or hearings in last 48 hours.  
+**Status:** First congressional committee consideration of ARMA 2026 (H.R. 8957) via House Financial Services Subcommittee field hearing on July 17; remains in committee with 23 cosponsors and no votes, markup, or further action.  
 
 *Generated 2026-07-17*
 
 ---
 
-## House Committee on Financial Services schedules July 17 field hearing on CLARITY Act  (importance 5/10)
+## House Financial Services Committee Holds Field Hearing Discussing ARMA (H.R. 8957)  (importance 7/10)
 
-The House Financial Services Committee's Digital Assets, Financial Technology, and Artificial Intelligence Subcommittee is scheduled to hold a field hearing titled "Building the Future of Finance: How the CLARITY Act Unlocks Innovation" on July 17, 2026, in New York, NY. This relates to the broader digital asset regulatory framework that intersects with Strategic Bitcoin Reserve discussions, though ARMA 2026 itself is not the direct subject.
+The House Financial Services Subcommittee on Digital Assets held a field hearing titled “Building the Future of Finance: How the CLARITY Act Unlocks Innovation” in New York. The agenda explicitly included H.R. 8957, the American Reserve Modernization Act of 2026 (ARMA), which establishes a Strategic Bitcoin Reserve. This marks the first congressional committee consideration of a Strategic Bitcoin Reserve bill. No votes, markup, or passage occurred.
 
-> **Why it matters:** Procedural step scheduling a hearing on related digital asset legislation (CLARITY Act) that may indirectly impact Bitcoin reserve implementation; falls in 4-6 range for notable but not core ARMA 2026 action.
-
-**Sources:**
-
-- [https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411173](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411173)
-- [https://www.congress.gov/committees/video/house-financial-services/hsba00/bNgfFr5TW8s](https://www.congress.gov/committees/video/house-financial-services/hsba00/bNgfFr5TW8s)
-
-## Sen. Cynthia Lummis states CLARITY Act is 'ready for prime time' with target Senate floor date of July 20  (importance 5/10)
-
-Sen. Cynthia Lummis indicated the CLARITY Act (a digital asset regulatory bill) is ready for Senate consideration as early as July 20, 2026, before the August recess. She described it as 'arduous' but 'ready for prime time,' noted work on ethics language, and referenced President Trump's support for its passage. The bill includes provisions relevant to crypto regulation that could impact Strategic Bitcoin Reserve implementation, though it is distinct from ARMA 2026.
-
-> **Why it matters:** Notable statement by a key crypto legislator on timeline for separate but intersecting CLARITY Act; scores 4-6 as it is not a direct ARMA 2026 update, hearing, or Treasury plan.
+> **Why it matters:** First-ever congressional committee hearing/discussion of the ARMA Strategic Bitcoin Reserve bill qualifies as major procedural milestone (7-8 range).
 
 **Sources:**
 
-- [https://www.sahmcapital.com/news/content/bitcoin-senator-lummis-says-clarity-act-is-ready-for-prime-time-2026-07-15](https://www.sahmcapital.com/news/content/bitcoin-senator-lummis-says-clarity-act-is-ready-for-prime-time-2026-07-15)
+- [https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176)
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957](https://www.congress.gov/bill/119th-congress/house-bill/8957)
 
-## Treasury Secretary Scott Bessent confirms U.S. gold reserves and dismisses revaluation  (importance 4/10)
+## ARMA Bill Referred to House Financial Services Committee with 23 Cosponsors  (importance 4/10)
 
-Treasury Secretary Scott Bessent stated that all 147.3 million ounces of U.S. gold at Fort Knox and other vaults are present and accounted for, noting the market value exceeds $1 trillion. He explicitly said gold revaluation is "not what I had in mind" in the context of sovereign wealth fund plans. This relates to potential gold revaluation funding mechanisms discussed in connection with Bitcoin reserve proposals.
+H.R. 8957, the American Reserve Modernization Act of 2026 introduced by Rep. Nick Begich (R-AK) with Rep. Jared Golden (D-ME) as an original cosponsor, has 23 total cosponsors. It remains referred to the House Committee on Financial Services with no further actions, hearings (beyond the July 17 discussion), markup, or votes in the last 48 hours. Sen. Cynthia Lummis has previously supported related Strategic Bitcoin Reserve concepts but issued no new statements in the period.
 
-> **Why it matters:** Statement by key official touching on funding ideas sometimes linked to Bitcoin reserve concepts, but primarily about gold; scores at low end of 4-6 as it is indirect, not an official Bitcoin or ARMA plan, and not major news for the bill.
+> **Why it matters:** Updated cosponsor count and referral status is a minor procedural update with no new momentum.
+
+**Sources:**
+
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957](https://www.congress.gov/bill/119th-congress/house-bill/8957)
+- [https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411176)
+
+## Treasury Secretary Scott Bessent Confirms U.S. Gold Reserves at Fort Knox Are Fully Accounted For  (importance 5/10)
+
+In interviews and statements, Treasury Secretary Scott Bessent (Trump administration) confirmed that all U.S. gold reserves, including those at Fort Knox, are present and accounted for. He explicitly stated that gold revaluation is “not what I had in mind” for sovereign wealth fund plans or related mechanisms. This addresses ongoing speculation but confirms no revaluation or new funding mechanism is planned.
+
+> **Why it matters:** Notable statement by Treasury Secretary on gold reserves and ruling out revaluation, which is tangentially relevant to Bitcoin reserve funding debates but not a direct ARMA action.
 
 **Sources:**
 
 - [https://www.kucoin.com/news/flash/treasury-secretary-bessent-confirms-fort-knox-gold-reserves-skeptics-demand-audit](https://www.kucoin.com/news/flash/treasury-secretary-bessent-confirms-fort-knox-gold-reserves-skeptics-demand-audit)
+- [https://www.mining.com/bessent-says-fort-knox-gold-intact-amid-debt-debate/](https://www.mining.com/bessent-says-fort-knox-gold-intact-amid-debt-debate/)
+- [https://cryptobriefing.com/bessent-confirms-gold-fort-knox-reserves/](https://cryptobriefing.com/bessent-confirms-gold-fort-knox-reserves/)
 
 
 ---
 ### Run stats
 
-- ⏱ Runtime: 198.4s
+- ⏱ Runtime: 21.4s
 - 🤖 AI calls: 2
-- 🔤 Tokens: 67761 (in+out)
-- 💵 Est. AI cost: $0.1355
-- ⚙️ GitHub Actions minutes used (this run): ~3.31
-- 📅 Generated: 2026-07-17T02:04:34.930893Z
+- 🔤 Tokens: 43803 (in+out)
+- 💵 Est. AI cost: $0.0876
+- ⚙️ GitHub Actions minutes used (this run): ~0.36
+- 📅 Generated: 2026-07-17T14:31:41.526569Z
