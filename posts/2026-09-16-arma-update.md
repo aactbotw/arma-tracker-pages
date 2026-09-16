@@ -11,26 +11,35 @@ date: 2026-09-16
 
 ---
 
-## House Financial Services Committee schedules markup of ARMA (H.R. 8957) for September 16, 2026  (importance 7/10)
+## House Financial Services Committee schedules markup for ARMA 2026 (H.R. 8957)  (importance 7/10)
 
-The House Financial Services Committee has listed the American Reserve Modernization Act of 2026 (ARMA / H.R. 8957) for a full committee markup on September 16 at 10:00 a.m. ET. This is the first full-committee action on the bill since its introduction on May 21, 2026. The markup will involve debate, potential amendments (including one retaining the 20-year Bitcoin holding period and requiring annual/third-party audited proof-of-reserve reports), and a committee vote on whether to advance it to the full House. The bill codifies the Strategic Bitcoin Reserve, consolidates federal Bitcoin holdings under Treasury, creates a separate Digital Asset Stockpile, mandates secure storage within 180 days, and directs a study on budget-neutral acquisition methods (explicitly excluding new taxes, borrowing, or deficit spending).
+The House Financial Services Committee has scheduled a full committee markup of H.R. 8957, the American Reserve Modernization Act of 2026 (ARMA), for September 16, 2026, at 10:00 a.m. ET. This is the bill's first formal committee consideration. The legislation, introduced by Rep. Nick Begich (R-AK) with Rep. Jared Golden (D-ME) as co-lead and over 20 co-sponsors, would establish a Strategic Bitcoin Reserve in the Treasury, impose a 20-year holding period on Bitcoin in the reserve (primarily from forfeitures), require quarterly proof-of-reserve reports with third-party audits, create a separate Digital Asset Stockpile, and direct a study of budget-neutral acquisition methods (explicitly prohibiting new debt, taxes, or deficit spending). A substitute amendment (ANS_HR8957) was posted ahead of the markup.
 
-> **Why it matters:** This is the first substantive committee action on the bill since introduction, directly matching the 7-8 tier for a committee hearing/markup being scheduled. No actual vote outcome or passage yet.
+> **Why it matters:** This is the first formal committee action on the bill since introduction, meeting the threshold for a scheduled committee hearing/markup.
 
 **Sources:**
 
 - [https://cryptobriefing.com/house-committee-strategic-bitcoin-reserve-bill/](https://cryptobriefing.com/house-committee-strategic-bitcoin-reserve-bill/)
-- [https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/](https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/)
-- [https://www.cryptotimes.io/2026/09/15/us-house-to-vote-on-strategic-bitcoin-reserve-bill-on-september-16/](https://www.cryptotimes.io/2026/09/15/us-house-to-vote-on-strategic-bitcoin-reserve-bill-on-september-16/)
 - [https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info](https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info)
+- [https://crypto.news/strategic-bitcoin-reserve-bill-set-for-house-committee-vote-wednesday/](https://crypto.news/strategic-bitcoin-reserve-bill-set-for-house-committee-vote-wednesday/)
+
+## Sen. Cynthia Lummis statement on House markup of Strategic Bitcoin Reserve bill  (importance 5/10)
+
+Sen. Cynthia Lummis stated that the House Financial Services Committee is marking up 'my Strategic Bitcoin Reserve bill' (referring to ARMA/H.R. 8957) alongside other crypto measures, emphasizing continued efforts for U.S. leadership in Bitcoin and digital assets. This aligns with the committee's scheduled September 16, 2026 markup.
+
+> **Why it matters:** Notable statement from a key legislative figure tied directly to the bill and markup timing, but remains procedural commentary without advancing the bill.
+
+**Sources:**
+
+- [https://x.com/SenLummis/status/2100230404464582753](https://x.com/SenLummis/status/2100230404464582753)
 
 
 ---
 ### Run stats
 
-- ⏱ Runtime: 25.7s
+- ⏱ Runtime: 20.0s
 - 🤖 AI calls: 2
-- 🔤 Tokens: 66829 (in+out)
-- 💵 Est. AI cost: $0.1337
-- ⚙️ GitHub Actions minutes used (this run): ~0.43
-- 📅 Generated: 2026-09-16T02:01:43.155148Z
+- 🔤 Tokens: 52025 (in+out)
+- 💵 Est. AI cost: $0.1041
+- ⚙️ GitHub Actions minutes used (this run): ~0.33
+- 📅 Generated: 2026-09-16T14:31:39.642208Z
