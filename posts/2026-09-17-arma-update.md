@@ -11,35 +11,37 @@ date: 2026-09-17
 
 ---
 
-## House Financial Services Committee advances ARMA (H.R. 8957) in markup  (importance 9/10)
+## House Financial Services Committee advances ARMA (H.R. 8957) 28-21  (importance 9/10)
 
-The House Financial Services Committee held a markup on H.R. 8957, the American Reserve Modernization Act of 2026 (ARMA), on September 16, 2026. A substitute amendment offered by Rep. Bryan Steil (retaining the 20-year holding period for reserve Bitcoin, requiring annual proof-of-reserve reports with independent audits, and directing a study on budget-neutral acquisition methods without authorizing new taxes, borrowing, or deficit spending) was adopted. The committee then voted 28-21 to order the bill reported favorably to the full House. This marks the first full-committee action on the bill since its introduction. Opposing votes included concerns from Rep. Bill Foster (D-IL) about Bitcoin's risk and volatility. The bill would codify a Strategic Bitcoin Reserve under Treasury, consolidate qualifying (primarily forfeited) government Bitcoin holdings, create a separate Digital Asset Stockpile, and prohibit sales for at least 20 years.
+The House Financial Services Committee voted 28-21 on September 16, 2026 to favorably report the amended American Reserve Modernization Act of 2026. A substitute amendment offered by Rep. Bryan Steil was adopted by voice vote prior to the final recorded vote (FC-317). The bill, which would codify a Strategic Bitcoin Reserve using primarily forfeited Bitcoin with a 20-year minimum holding period (adjusted in substitute to a single enactment date), annual rather than quarterly proof-of-reserve reporting, and a study of budget-neutral acquisition strategies (without new taxes, borrowing, or deficit spending), now moves to the House floor. No companion Senate bill has advanced. 23 cosponsors noted at time of markup (22R-1D).
 
-> **Why it matters:** Formal markup result with recorded committee vote to advance the bill, qualifying as a major procedural milestone and the first committee action since introduction.
-
-**Sources:**
-
-- [https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119565](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119565)
-- [https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
-- [https://www.tftc.io/arma-hr-8957-strategic-bitcoin-reserve-markup-september-16](https://www.tftc.io/arma-hr-8957-strategic-bitcoin-reserve-markup-september-16)
-
-## Rep. Bryan Steil statement during ARMA markup  (importance 5/10)
-
-During the September 16, 2026 House Financial Services Committee markup of ARMA, Rep. Bryan Steil (R-WI), chair of the Subcommittee on Digital Assets, stated: "This is a smart financial strategy that will increase our reserve strength while also reducing our deficit. Digital assets continue to transform the global market. We must modernize our strategic reserves to maintain American dominance and financial stability."
-
-> **Why it matters:** Notable statement by a key figure (committee chair and amendment author) made in the context of the markup, but remains a supporting quote rather than an independent procedural or legislative outcome.
+> **Why it matters:** Formal committee markup result and passage by recorded vote, matching the 9-10 tier for major legislative advancement.
 
 **Sources:**
 
-- [https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
+- [https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/](https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/)
+- [https://www.cryptotimes.io/2026/09/17/us-house-passes-strategic-bitcoin-reserve-bill-28-21-with-20-year-lock/](https://www.cryptotimes.io/2026/09/17/us-house-passes-strategic-bitcoin-reserve-bill-28-21-with-20-year-lock/)
+- [https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/](https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/)
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957](https://www.congress.gov/bill/119th-congress/house-bill/8957)
+
+## Sen. Cynthia Lummis highlights House markup of Strategic Bitcoin Reserve bill  (importance 5/10)
+
+On September 16, 2026, Sen. Cynthia Lummis posted on X noting that the House Financial Services Committee was marking up "my Strategic Bitcoin Reserve bill" (referring to the ARMA legislation she has previously co-sponsored in the House with Rep. Begich) alongside other crypto policy progress, stating "Glad crypto policy is moving forward in the House this week." This follows the Senate's failure to advance the CLARITY Act the prior day.
+
+> **Why it matters:** Notable statement by a key legislative figure tied to the bill, falling in the 4-6 tier for commentary on the procedural step.
+
+**Sources:**
+
+- [https://coinedition.com/crypto-live-news/lummis-revives-us-bitcoin-reserve-push-as-house-advances/](https://coinedition.com/crypto-live-news/lummis-revives-us-bitcoin-reserve-push-as-house-advances/)
+- [https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/](https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/)
 
 
 ---
 ### Run stats
 
-- ⏱ Runtime: 34.0s
+- ⏱ Runtime: 26.4s
 - 🤖 AI calls: 2
-- 🔤 Tokens: 56662 (in+out)
-- 💵 Est. AI cost: $0.1133
-- ⚙️ GitHub Actions minutes used (this run): ~0.57
-- 📅 Generated: 2026-09-17T02:01:55.375223Z
+- 🔤 Tokens: 60116 (in+out)
+- 💵 Est. AI cost: $0.1202
+- ⚙️ GitHub Actions minutes used (this run): ~0.44
+- 📅 Generated: 2026-09-17T14:31:45.057903Z
