@@ -11,34 +11,52 @@ date: 2026-09-18
 
 ---
 
-## Rep. Bryan Steil Statement on ARMA Markup  (importance 5/10)
+## House Financial Services Committee orders H.R. 8957 (ARMA 2026) reported favorably as amended  (importance 10/10)
 
-During the September 16, 2026 House Financial Services Committee markup, Rep. Bryan Steil (R-WI) described the Strategic Bitcoin Reserve legislation as "a smart financial strategy that will increase our reserve strength while also reducing our deficit" and stated that "Digital assets continue to transform the global market. We must modernize our strategic reserves to maintain American dominance and financial stability."
+On September 16, 2026, the House Financial Services Committee held a markup session and voted 28-21 (Record Vote FC-317) to order the American Reserve Modernization Act of 2026 reported to the House floor as amended. The bill, which establishes a Strategic Bitcoin Reserve for forfeited Bitcoin (minimum 20-year hold from enactment, no sales/swaps/pledges), a separate Digital Asset Stockpile, annual proof-of-reserve reporting with independent audits and cryptographic attestations, and a 180-day study on budget-neutral acquisition strategies (explicitly excluding new taxes, borrowing, or deficit spending; gold certificate revaluation listed as one study option), advances further than any prior Strategic Bitcoin Reserve legislation. A substitute amendment by Rep. Bryan Steil was adopted by voice vote prior to final passage. No floor vote scheduled yet; no Senate companion has advanced.
 
-> **Why it matters:** Notable statement by key figure (amendment author and committee member) tied directly to the markup qualifies as procedural-step commentary (category 4-6).
-
-**Sources:**
-
-- [https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)
-
-## Rep. Nick Begich Statement on Bitcoin Custody Risks  (importance 5/10)
-
-Rep. Nick Begich stated in connection with the ARMA advance: "We cannot allow Bitcoin to be held by the federal government to languish in fragmented and inconsistent custody. It poses unacceptable cybersecurity risks and fails to give an adequate accounting of what the federal government actually owns."
-
-> **Why it matters:** Notable statement by the bill's lead sponsor explaining core custody/accounting provisions of the advanced bill (category 4-6).
+> **Why it matters:** Formal committee markup result with recorded vote ordering the bill reported favorably; matches highest tier (9-10) for major legislative advancement.
 
 **Sources:**
 
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info](https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info)
 - [https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/](https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/)
-- [https://bitbo.io/news/bitcoin-reserve-bill-house-panel/](https://bitbo.io/news/bitcoin-reserve-bill-house-panel/)
+- [https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/](https://crypto.news/bitcoin-reserve-bill-clears-house-panel-28-21/)
+
+## Rep. Nick Begich comments on ARMA advancement and custody risks  (importance 5/10)
+
+Following or during the September 16, 2026 committee markup of his bill H.R. 8957, Rep. Nick Begich (R-AK, sponsor) reiterated that fragmented and inconsistent custody of federal Bitcoin holdings poses unacceptable cybersecurity risks and fails to provide adequate accounting of government-owned assets. The bill centralizes custody under Treasury. No new co-sponsors added in the immediate 48-hour window; 23 total cosponsors (including Rep. Jared Golden (D-ME) as co-lead) listed as of the vote.
+
+> **Why it matters:** Notable statement by the bill sponsor tied to the markup; qualifies as procedural commentary (4-6 range) but not a new major action or co-sponsor.
+
+**Sources:**
+
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info](https://www.congress.gov/bill/119th-congress/house-bill/8957/all-info)
+- [https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/](https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/)
+
+## No new developments on government Bitcoin purchases or gold revaluation implementation  (importance 2/10)
+
+The amended ARMA directs a study of budget-neutral methods (including potential gold certificate revaluation) but does not authorize purchases or revaluation. No announcements, executive actions, or legislation advancing actual large-scale Bitcoin buys or gold revaluation occurred in the last 48 hours. Existing Trump administration Strategic Bitcoin Reserve framework (from 2025 EO) relies primarily on forfeited assets.
+
+> **Why it matters:** Explicitly reports absence of developments; minor restatement of existing bill text with no new progress (1-3 range).
+
+**Sources:**
+
+- [https://www.congress.gov/bill/119th-congress/house-bill/8957/text](https://www.congress.gov/bill/119th-congress/house-bill/8957/text)
+
+## No new statements or actions from Sen. Cynthia Lummis or Trump administration  (importance 1/10)
+
+No statements, press releases, or legislative actions from Sen. Cynthia Lummis, Rep. Jared Golden, or the Trump administration on the Strategic Bitcoin Reserve, ARMA, Bitcoin purchases, or gold revaluation were issued or reported in the 48 hours ending September 18, 2026. Lummis has previously supported related efforts (e.g., BITCOIN Act).
+
+> **Why it matters:** Purely negative report of no activity; qualifies as noise/restatement with no substantive update (1-2 range).
 
 
 ---
 ### Run stats
 
-- ⏱ Runtime: 27.6s
+- ⏱ Runtime: 29.9s
 - 🤖 AI calls: 2
-- 🔤 Tokens: 62285 (in+out)
-- 💵 Est. AI cost: $0.1246
-- ⚙️ GitHub Actions minutes used (this run): ~0.46
-- 📅 Generated: 2026-09-18T02:01:44.587694Z
+- 🔤 Tokens: 69008 (in+out)
+- 💵 Est. AI cost: $0.1380
+- ⚙️ GitHub Actions minutes used (this run): ~0.50
+- 📅 Generated: 2026-09-18T14:31:47.340605Z
